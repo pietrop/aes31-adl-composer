@@ -1,5 +1,5 @@
 {
-  "name": "@bbc/aes31-adl-composer",
+  "name": "@pietrop/aes31-adl-composer",
   "version": "1.0.1",
   "description": "A node module to convert a json sequence into an AES31 ADL (audio decision list) compatible with SADiE audio editing software.",
   "main": "src/index.js",
@@ -13,7 +13,7 @@
     "publish:dry:run": "npm publish --dry-run"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "moment": "^2.24.0",
     "smpte-timecode": "^1.2.3",

@@ -22,7 +22,7 @@ see example usage for example
 ## Usage - production
 
 ```
-npm install @bbc/aes31-adl-composer
+npm install @pietrop/aes31-adl-composer
 ```
 
 require or import in your code and see example usage for more details
